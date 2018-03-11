@@ -1,9 +1,0 @@
-﻿<!DOCTYPE html>
-<html>
-<head>
-	<title>Проект на гит хабе</title>
-</head>
-<body>
-Привет, мир. Это мой первый проект на гит хабе
-</body>
-</html>
